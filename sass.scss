@@ -1,0 +1,21 @@
+$ul_color:green;
+$ol_color: blue;
+$li_color: red;
+
+div{
+    ul{
+        color: $ul_color;
+        font-size: 14px;
+    }
+    
+    ol{
+        color: $ol_color;
+        font-size: 18px;
+       
+    }
+
+    li{
+         color: $li_color;
+         font-size: 14px;
+    }
+}
